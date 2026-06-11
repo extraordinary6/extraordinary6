@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Welcome to my profile! I'm pursuing my M.S. at **Shanghai Jiao Tong University (SJTU)**, majoring in **Integrated Circuit Engineering**.
+I'm pursuing my B.S. and M.S. at **Shanghai Jiao Tong University (SJTU)**, majoring in **Integrated Circuit Engineering**.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=2F80ED&width=560&lines=Digital+IC+Designer;Building+AI-driven+EDA+tools;Exploring+Power+Prediction;SoC+Design+%7C+Neural+Network+Acceleration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=2F80ED&width=560&lines=Digital+IC+Designer;Building+AI-driven+EDA+tools;Exploring+TCN+for+Power+Prediction;SoC+Design+%7C+Neural+Network+Acceleration" alt="Typing SVG" />
 </p>
 
 My work sits at the intersection of digital systems, computer architecture, and AI-assisted design automation.
@@ -14,29 +14,17 @@ My work sits at the intersection of digital systems, computer architecture, and 
 - **Neural Network Acceleration**: efficient hardware acceleration for deep learning workloads
 - **AI for EDA**: machine learning and large-model techniques for design automation workflows
 
-## 🧰 Tech Stack
-
-**Design & Verification**
+## 🏷�?Keywords
 
 <p>
-  <img src="https://img.shields.io/badge/SystemVerilog-2F80ED?style=flat-square" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/Verilog-4B5563?style=flat-square" alt="Verilog" />
-  <img src="https://img.shields.io/badge/UVM-16A34A?style=flat-square" alt="UVM" />
-</p>
-
-**EDA & Automation**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Synopsys-DC2626?style=flat-square" alt="Synopsys" />
-</p>
-
-**AI Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LLM%20Agents-111827?style=flat-square" alt="LLM Agents" />
+  <img src="https://img.shields.io/badge/SoC%20Design-4C7C8A?style=flat-square" alt="Digital IC" />
+  <img src="https://img.shields.io/badge/RTL%20Design-5B6C8F?style=flat-square" alt="SoC Architect" />
+  <img src="https://img.shields.io/badge/UVM-6A8D73?style=flat-square" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/Verification-7C6F9F?style=flat-square" alt="UVM" />
+  <img src="https://img.shields.io/badge/EDA%20Automation-3F7F7A?style=flat-square" alt="Hardware x AI" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-4B5F7A?style=flat-square" alt="LLM Agents" />
+  <img src="https://img.shields.io/badge/Power%20Prediction-8A7A4C?style=flat-square" alt="Power Prediction" />
+  <img src="https://img.shields.io/badge/NN%20Acceleration-6E8B9E?style=flat-square" alt="RTL Automation" />
 </p>
 
 ## 📫 Contact
