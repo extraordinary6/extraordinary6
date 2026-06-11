@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**extraordinary6/extraordinary6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pursuing my B.S. and M.S. at **Shanghai Jiao Tong University (SJTU)**, majoring in **Integrated Circuit Engineering**.
 
-Here are some ideas to get you started:
+My work sits at the intersection of digital systems, computer architecture, and AI-assisted design automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- **SoC Design**: architecture exploration, RTL design, verification, and system-level integration
+- **Neural Network Acceleration**: efficient hardware acceleration for deep learning workloads
+- **AI for EDA**: machine learning and large-model techniques for design automation workflows
+
+## 📫 Contact
+
+[xypherok@gmail.com](mailto:xypherok@gmail.com)
+
+## 📊 Repository Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extraordinary6&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+</p>
