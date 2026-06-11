@@ -17,5 +17,5 @@ My work sits at the intersection of digital systems, computer architecture, and 
 ## 📊 Repository Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extraordinary6&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=extraordinary6&layout=compact&langs_count=8&hide_border=true&exclude_repo=Design-and-Verification-of-MHSA-Accelerator" alt="Top Languages" />
 </p>
